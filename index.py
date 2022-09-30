@@ -5,6 +5,6 @@ print("messgae will be printed 10 times")
 time.sleep(5)
 
 for i in range(10):
-    pg.write("hello  world")
+    pg.write("hello ")
     time.sleep(0.5)
     pg.press("Enter")
